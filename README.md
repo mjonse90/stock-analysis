@@ -20,4 +20,10 @@ According to the analysis, 2017 had an overall positive return on all stocks exc
 
 2018 saw a much larger loss across all stocks compared to the 2017 analysis. The only stocks that saw an increase were ENPH with a +81.9% return and RUN with a +84% return. A couple of stocks saw marginal losses. For instance, AY (-7.3%), SEDG (-7.8%) TERP (-5%) and VSLR (-3.5%). While other stocks saw significant losses such as DQ (-62.6%), JKS (-60.5%), and SPWR (-44.6%). 
 
+For both years, times improved by about half a second when the code was refactored.
+
 ## Summary
+
+With refactoring the code, times improved by around half a second. Which may not sound like a lot. But compounded over time, adds up to a lot of valuable time for the client. By refactoring the code, the improved functionality of the analysis improves and becomes more efficient, which is an overall bonus for all involved with the process.
+
+A disadvantage of refactoring code is that it is a time consuming process. Something that would have to be brought to the client's attention to see if (in our case) the half second improvement is worth the time it took to refactor the code.
